@@ -12,6 +12,9 @@ Compile
 Test
 `yarn test`
 
+Deploy to local network
+`yarn deploy`
+
 ### Helpers
 
 - [OpenZeppelin](https://openzeppelin.com/contracts/) contract template (ERC-721)
