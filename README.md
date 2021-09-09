@@ -6,13 +6,16 @@ Attempt two, bye truffle
 
 `yarn install`
 
-Compile
+#### Compile
+
 `yarn compile`
 
-Test
+#### Test
+
 `yarn test`
 
-Deploy to local network
+#### Deploy to local network
+
 `yarn deploy`
 
 ### Helpers
